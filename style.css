@@ -12,7 +12,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f6f9;
-    color: #222222;
+    color: #222;
     line-height: 1.5;
     transition: background 0.3s, color 0.3s;
 }
